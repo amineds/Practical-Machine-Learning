@@ -1,0 +1,32 @@
+---
+title: "Coursera - Machine Learning - Course Project"
+author: "Amine BENHAMZA"
+date: "22 November 2015"
+output: html_document
+---
+
+## Executive Summary
+
+
+Out of sample error
+
+## DataSet (Training & Testing)
+
+
+## Error rate
+
+## Feature selection
+
+
+
+## Exploratory Data Analysis
+
+## PreProcessing & Cleansing
+
+## Training
+
+## Standard Error
+
+## Testing
+
+## Predict
